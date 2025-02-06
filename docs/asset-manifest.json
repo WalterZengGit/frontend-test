@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/WalterZengGit/frontend-test/static/js/main.f6db4471.js",
-    "index.html": "/WalterZengGit/frontend-test/index.html",
-    "main.f6db4471.js.map": "/WalterZengGit/frontend-test/static/js/main.f6db4471.js.map"
+    "main.js": "/frontend-test/static/js/main.489f8215.js",
+    "index.html": "/frontend-test/index.html",
+    "main.489f8215.js.map": "/frontend-test/static/js/main.489f8215.js.map"
   },
   "entrypoints": [
-    "static/js/main.f6db4471.js"
+    "static/js/main.489f8215.js"
   ]
 }
