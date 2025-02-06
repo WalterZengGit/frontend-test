@@ -171,14 +171,3 @@ git push origin feature-branch
 ```
 
 5. Open a Pull Request.
-
----
-
-## 📬 **Contact**
-
-For questions or feedback:
-
-- **GitHub:** [Your Username](https://github.com/your-username)
-- **Email:** your-email@example.com
-
-**Happy Coding! 🚀**
